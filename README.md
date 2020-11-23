@@ -2,7 +2,6 @@
 Find recurrent colocalized genomic loci in ensembles of 3D chromosome structures
 
 |
-
 |--data: directory containing examples of 3d structures
 
 |
